@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply px-5 py-3 bg-orange rounded-full font-md capitalize max-w-fit font-Roboto;
+  }
+
+  .link {
+    @apply font-md transition-all capitalize;
+  }
+
+  .section {
+    @apply pt-[6rem] w-screen h-screen flex items-center justify-center overflow-hidden;
+  }
+
+  .section2 {
+    @apply font-Lato pt-[6rem] flex items-center justify-center text-bg-dark;
+  }
+
+  .context {
+    @apply p-5 flex w-4/5 h-full items-center justify-center;
+  }
+
+  .h1 {
+    @apply text-[2rem] font-Lato capitalize font-b;
+  }
+
+  .p1 {
+    @apply font-Lato text-gray font-md;
+  }
+
+  .sub {
+    @apply w-[35vw] h-[10rem] flex-wrap border-[3px] p-2 rounded border-orange overflow-hidden flex flex-col gap-5 justify-between cursor-pointer hover:shadow-2xl  ;
+
+  }
+
+  .h3 {
+    @apply font-Roboto text-[1rem] uppercase font-b;
+  }
+
+  .p2 {
+    @apply font-Lato text-gray text-[16px];
+  }
+
+  .icon {
+    @apply text-[2rem] text-gray w-[2rem] h-[2rem];
+  }
+
+  .icon2 {
+    @apply text-[2rem] text-orange;
+  }
+
+  .icon3 {
+    @apply drop-shadow text-[1.2rem];
+  }
+
+  .reverse {
+    @apply flex-row-reverse;
+  }
+
+}
