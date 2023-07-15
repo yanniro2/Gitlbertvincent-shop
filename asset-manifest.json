@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Gitlbertvincent-shop/static/css/main.c917052e.css",
+    "main.js": "/Gitlbertvincent-shop/static/js/main.e86d00af.js",
+    "static/js/787.b44a8667.chunk.js": "/Gitlbertvincent-shop/static/js/787.b44a8667.chunk.js",
+    "static/media/Quality.jpeg": "/Gitlbertvincent-shop/static/media/Quality.0e20ee7ceb3ccf1c3929.jpeg",
+    "static/media/mission.jpeg": "/Gitlbertvincent-shop/static/media/mission.d98f7981b945a1780941.jpeg",
+    "static/media/hero-img.jpeg": "/Gitlbertvincent-shop/static/media/hero-img.914fe13106e96f1d0bf6.jpeg",
+    "static/media/customer.jpg": "/Gitlbertvincent-shop/static/media/customer.52befa7532f7a7508873.jpg",
+    "static/media/expert.jpeg": "/Gitlbertvincent-shop/static/media/expert.9e9bea8e083b21210333.jpeg",
+    "static/media/hero-img-1.jpeg": "/Gitlbertvincent-shop/static/media/hero-img-1.a9218712ce9ae8e94d1c.jpeg",
+    "static/media/hero-img-2.jpeg": "/Gitlbertvincent-shop/static/media/hero-img-2.5c2c723d5890b5ab8b95.jpeg",
+    "static/media/contact.jpeg": "/Gitlbertvincent-shop/static/media/contact.f9543278201092a8dbe3.jpeg",
+    "static/media/time.jpeg": "/Gitlbertvincent-shop/static/media/time.dfc994ef4b0550e615f7.jpeg",
+    "static/media/logo.png": "/Gitlbertvincent-shop/static/media/logo.08548834f2873ed8d7e0.png",
+    "index.html": "/Gitlbertvincent-shop/index.html",
+    "main.c917052e.css.map": "/Gitlbertvincent-shop/static/css/main.c917052e.css.map",
+    "main.e86d00af.js.map": "/Gitlbertvincent-shop/static/js/main.e86d00af.js.map",
+    "787.b44a8667.chunk.js.map": "/Gitlbertvincent-shop/static/js/787.b44a8667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c917052e.css",
+    "static/js/main.e86d00af.js"
+  ]
+}
